@@ -1,0 +1,127 @@
+ideology_id,name,Z1,Z2,Z3
+I01,Socialismo clásico,1.5247681,0.20069283,2.3302913
+I02,Liberalismo clásico,1.1674199,-1.003676,-2.682754
+I03,Conservadurismo tradicional,-1.0830784,-1.368174,-1.3887606
+I04,Anarquismo individualista,2.8926506,0.6801408,-1.492468
+I05,Socialdemocracia,2.6093822,0.6452685,0.69212556
+I06,Neoliberalismo,0.72681856,-1.4767574,-3.1926246
+I07,Populismo nacional,-1.3894024,-0.64007556,-0.82715464
+I08,Tecno-progresismo,3.5279293,0.35671845,0.40718487
+I09,Teoría Queer (académica),0.53548056,3.1649125,-1.6271057
+I10,Activismo Queer interseccional,0.59632045,3.283048,-1.3874371
+I11,Sionismo laborista,-1.0826263,0.7665478,-1.8255478
+I12,Sionismo revisionista,-1.4519669,-1.2758976,-3.0082302
+I13,Sionismo cultural,-0.13436769,0.8479399,-1.4387975
+I14,Sionismo religioso,-1.6777896,-1.354266,-2.2883775
+I15,Anarcocapitalismo,1.6698377,0.3535399,-2.665803
+I16,Eco-republicanismo,0.71161467,1.6150187,-0.60412586
+I17,Liberalismo social,2.7949052,0.20088372,0.17350984
+I18,Ordoliberalismo,0.9436585,-1.9286834,-1.7905998
+I19,Minarquismo,2.2681766,-1.0109689,-2.4627647
+I20,Georgismo,2.4959822,-0.40933347,-0.5236316
+I21,Mutualismo,2.5338063,0.70386016,-1.3284426
+I22,Marxismo-leninismo,-0.10003103,-1.0203758,3.370772
+I23,Trotskismo,0.047389463,-0.8797067,3.3257256
+I24,Maoísmo,-0.7192296,-1.5302311,3.119021
+I25,Eurocomunismo,1.8394763,0.23333561,1.840212
+I26,Socialismo de mercado,1.7322387,-0.5841233,1.8935733
+I27,Socialismo del siglo XXI,-0.07283984,0.5319361,2.7553494
+I28,Anarcosindicalismo,1.6169295,1.5782925,1.6138484
+I29,Anarcocomunismo,1.9325465,2.1065729,1.7322829
+I30,Comunalismo/Municipalismo libertario,1.9453851,1.6689667,0.9319861
+I31,Anarcofeminismo,1.9433198,2.6080763,1.3716278
+I32,Neoconservadurismo,-0.3441174,-3.576697,-1.6729174
+I33,Paleoconservadurismo,-1.3307147,-2.089907,-0.6923797
+I34,Democracia cristiana,-0.016575545,-0.782935,0.16279608
+I35,Distributismo,-0.26149046,0.11572123,0.48080042
+I36,Fascismo,-2.6919744,-2.54898,0.61517894
+I37,Falangismo (nacional-sindicalismo),-2.4503465,-2.238294,0.51169765
+I38,Nacionalsocialismo,-2.4041913,-3.050794,1.1197743
+I39,Corporativismo católico/integrista,-2.2254117,-1.9997474,0.32759088
+I40,Desarrollismo autoritario,-0.3420276,-3.233721,1.3048873
+I41,Ecologismo político (verde),1.8417101,1.7775046,0.36025703
+I42,Ecosocialismo,1.2691729,2.2737854,1.4100121
+I43,Ecoanarquismo,1.9524257,2.100567,0.694541
+I44,Ecología profunda,-0.06327243,0.8834328,0.29294032
+I45,Ecomodernismo,2.9409475,-1.4587907,0.10815896
+I46,Ecofascismo,-2.9559116,-2.247833,0.62957525
+I47,Gaullismo,-1.0248028,-2.6369073,0.41980043
+I48,Peronismo,-1.1291864,-1.4648155,1.0419695
+I49,Baazismo,-1.8667691,-2.4636981,1.1703047
+I50,Nasserismo,-1.6002522,-2.2698262,1.1911079
+I51,Kemalismo,-0.39095742,-2.9359577,0.987527
+I52,Pan-africanismo,0.082885996,1.254289,1.9360013
+I53,Hindutva,-2.292837,-2.7421234,0.209517
+I54,Islamismo democrático,-0.97144,-1.629938,0.27121028
+I55,Islamismo salafí (político),-3.150315,-3.2244604,-1.5502803
+I56,Nacional-catolicismo/Integralismo,-2.5650187,-2.756014,-0.023271173
+I57,Budismo comprometido,0.53838104,1.927739,0.3395671
+I58,Tecnocracia,1.4633904,-3.094169,1.0540693
+I59,Transhumanismo político,3.4890842,0.6658889,-0.0011957586
+I60,Dataísmo/gobierno algorítmico,1.6893319,-2.7202976,0.98741674
+I61,Comunitarismo (Etzioni),-0.29158276,0.000761196,0.6167904
+I62,Multiculturalismo liberal,2.0380697,1.8904392,-0.27919883
+I63,Nacionalismo cívico,0.88297117,-1.4581598,-0.20752484
+I64,Nacionalismo étnico,-1.4160657,-2.3675518,0.1439301
+I65,Democracia liberal representativa,1.2928984,-0.9637764,-0.22295776
+I66,Democracia participativa,1.7572587,1.1562115,0.3105882
+I67,Democracia deliberativa,2.186432,0.5896735,0.53814864
+I68,Democracia directa,1.6700599,0.8440515,0.111477405
+I69,Democracia consociacional,0.98640037,-0.5412275,0.71798766
+I70,Democracia iliberal,-1.4050359,-2.515911,0.35104504
+I71,Democracia popular (socialista),-0.19141094,-0.8900664,2.9082835
+I72,Modelo parlamentario (Westminster),0.9811018,-1.4973565,-0.9338095
+I73,Democracia presidencialista,0.7909592,-1.5217856,-1.3488207
+I74,Democracia semipresidencial,0.88527495,-1.4473385,-1.1085688
+I75,Imperialismo clásico/expansionista,-1.3043293,-3.6293304,-0.14090343
+I76,Neocolonialismo (imperialismo económico),0.35365438,-2.9354684,-2.2515073
+I77,Feminismo clásico/liberal,2.3172364,-0.32288536,-0.27250832
+I78,Feminismo radical,-0.5257299,2.6558173,0.48290744
+I79,Feminismo marxista,0.5703481,1.3577329,2.6095486
+I80,Feminismo socialista,0.95298576,1.8661007,1.6722443
+I81,Ecofeminismo,0.15814705,2.5677888,0.78546464
+I82,Feminismo cultural,-0.41500956,2.037643,0.3202035
+I83,Feminismo negro/Afrofeminismo,1.0323585,2.4396622,0.4751449
+I84,Womanism,0.7542748,1.9101415,0.4885718
+I85,Feminismo interseccional,1.494918,2.7505608,0.36757937
+I86,Feminismo queer,1.3249958,3.1058238,-0.26756552
+I87,Transfeminismo,1.4793868,3.0482233,-0.1966291
+I88,Feminismo decolonial/postcolonial,0.5195638,2.8981144,0.92532897
+I89,Feminismo materialista (francés),0.4789979,2.12803,1.9631829
+I90,Feminismo pro-sexo,1.8840661,1.9411603,-0.45644185
+I91,Feminismo crítico del género,-0.53310615,2.6270096,0.4666671
+I92,Feminismo separatista,-0.7192332,2.5630462,0.60778606
+I93,Feminismo islámico,-0.8459869,1.8242587,0.74116683
+I94,Feminismo católico/cristiano,-0.81812197,1.2544438,0.75025153
+I95,Decrecimiento (Degrowth),-0.42298412,0.49791908,-0.8762349
+I96,Aceleracionismo de izquierda,-0.33499652,0.5474261,-1.2573986
+I97,Aceleracionismo de derecha,-0.25615698,0.4637217,-1.6261207
+I98,Nacional-conservadurismo (NatCon),-0.43026382,0.16686127,-1.0604247
+I99,Juche,-0.6895033,0.27384332,-0.72234285
+I100,Hoxhaísmo,-0.5286412,0.27862248,-0.8368504
+I101,Posliberalismo (Deneen),-0.5097377,0.44616354,-1.0382905
+I102,Neorreacción (NRx),-0.50792664,0.1759319,-1.3473964
+I103,Política pirata / Partido Pirata,-0.020226002,0.6582003,-1.4019103
+I104,Criptoanarquismo (cypherpunk),-0.015540466,0.7166038,-1.460122
+I105,Confederalismo democrático (Rojava),-0.31460202,0.8636682,-1.0782357
+I106,Plurinacionalismo andino,-0.6677136,0.58528966,-1.3899705
+I107,Socialismo cristiano,-0.30848342,0.48577678,-1.1400585
+I108,Consejismo / Comunismo de consejos,-0.3914342,0.4187162,-1.2508508
+I109,Liberalismo verde (eco-liberal),-0.3247859,0.63325995,-1.2109965
+I110, Nada,-0.3617658,0.42996523,-1.2265284
+I111, Ultranacionalismo Integral Expansionista,-1.4476514,0.26306638,-1.5330162
+I112, Socialismo Nacional‑Bolchevique Teocrático,-3.0204492,0.84835243,-0.26506728
+I113, Individualismo Atomista Radical,0.3560265,1.0382338,-2.5560164
+I114, Posmodernismo Político Puro,0.06257944,1.0308402,-1.6687387
+I115, Maximalismo Interseccional Autoritario,-2.341633,2.2499285,-0.9337678
+I116, Teocracia Socialista Igualitaria,-2.3379495,0.75535923,-0.2711017
+I117, Plurinacionalismo Radical Confederal,0.7926121,0.26678294,-0.8865346
+I118, Diasporismo Transnacional,0.6475524,0.19968188,-0.92257035
+I119, Repatriacionismo Estatal Absoluto,-1.2796673,0.5980129,-1.6446662
+I120, Plurinacionalismo Confederal Radical,0.7310452,0.29536155,-1.080357
+I121, Pactismo Territorial Confederal,0.38440073,0.2636664,-1.0538952
+I122, Centralismo Unitario Absoluto,-1.0820096,0.30959308,-1.1921731
+I123, Aliyá Estatocéntrica Absoluta,-1.2202303,0.809899,-1.8213018
+I124, Diáspora Central Universalista,0.64755225,0.19968179,-0.92257047
+I125,Humanismo,2.4676476,-0.39180365,0.71404326
+I126,Obradorismo (Humanismo mexicano),0.74096334,-0.5899885,1.2713897

@@ -1,0 +1,37 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenvs / env
+.env
+venv/
+env/
+.venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Datos (no versionar)
+data/*
+!data/dimensions.csv
+!data/ideologies.csv
+!data/ae3d_coords.csv
+
+
+# Carpetas con outputs generados
+figures/*
+!figures/ae3d_colored.html
+!figures/ae3d_colored.png
+# *.png
+# *.html
+
+# Logs
+*.log

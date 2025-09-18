@@ -1,0 +1,53 @@
+dimension_id,name,neg_label,pos_label,description,scale_min,scale_max,default_weight
+D01,Materialismo vs Idealismo,Idealismo,Materialismo,Ontología: primacía de lo material vs lo mental/ideal.,-1.0,1.0,1.0
+D02,Sistemismo vs Atomismo,Atomismo,Sistemismo,Todo como sistemas con propiedades emergentes vs suma de partes aisladas.,-1.0,1.0,1.0
+D03,Plasticidad vs Determinismo rígido,Determinismo rígido,Plasticidad,Grado de cambio/adaptación ontológica y social permitido.,-1.0,1.0,1.0
+D04,Formalismo contrastable vs Anti-formalismo,Anti-formalismo dogmático,Formalismo y modelado contrastable,"Aprecio por modelos formales, predicciones y refutabilidad.",-1.0,1.0,1.0
+D05,Individualismo vs Colectivismo,Colectivismo,Individualismo,Primacía del individuo y sus derechos vs primacía del colectivo y deberes.,-1.0,1.0,1.0
+D06,Igualitarismo vs Jerarquismo,Jerarquismo,Igualitarismo,Preferencia por igualdad sustantiva vs aceptación de jerarquías fuertes.,-1.0,1.0,1.0
+D07,Secularismo vs Teocratismo,Teocratismo,Secularismo,Separación tajante religión-Estado vs subordinación del Estado a religión.,-1.0,1.0,1.0
+D08,Internacionalismo vs Nacionalismo,Nacionalismo orgánico,Internacionalismo cooperativo,Apertura a instituciones y normas transnacionales vs prioridad nacional exclusiva.,-1.0,1.0,1.0
+D09,Tecno-progreso vs Tradicionalismo,Tradicionalismo,Progreso tecno-científico,Actitud ante innovación científica/tecnológica.,-1.0,1.0,1.0
+D10,Intervencionismo económico vs Libre mercado,Libre mercado absoluto,Intervención/planificación,Grado de intervención estatal en economía.,-1.0,1.0,1.0
+D11,Deliberación democrática vs Decisionismo elitista/plebiscitario,Decisionismo elitista/plebiscitario,Democracia deliberativa,Instituciones que priorizan la deliberación plural vs concentración decisional.,-1.0,1.0,1.0
+D12,Ambientalismo/precaución vs Productivismo extractivo,Productivismo extractivo,Precaución/ambientalismo,Prioridad a sostenibilidad ecológica vs crecimiento productivo a toda costa.,-1.0,1.0,1.0
+D13,Libertades civiles vs Seguridad/orden,Seguridad/orden punitivo,Libertades civiles,Trade-off regulatorio entre libertades y control/seguridad.,-1.0,1.0,1.0
+D14,Cosmopolitismo vs Comunitarismo esencialista,Comunitarismo esencialista,Cosmopolitismo,Universalismo moral-cultural vs esencialismo comunitario.,-1.0,1.0,1.0
+D15,Antiesencialismo identitario vs Esencialismo biológico,Esencialismo biológico,Antiesencialismo/constructivismo performativo,Ontología de sexo/género e identidades; de naturalizadas a performativas.,-1.0,1.0,1.0
+D16,Pluralismo/antinormatividad sexual vs Normatividad tradicional,Normatividad sexual tradicional,Pluralismo/antinormatividad sexual,Jerarquía moral de prácticas vs validación amplia de configuraciones.,-1.0,1.0,1.0
+D17,Reconocimiento/interseccionalidad vs Universalismo ciego al grupo,Universalismo ciego al grupo,Política del reconocimiento/interseccionalidad,Políticas diferenciadas por grupo y diseño institucional sensible.,-1.0,1.0,1.0
+D18,Posfundacionalismo hermenéutico vs Realismo/positivismo,Realismo/positivismo,Posfundacionalismo hermenéutico,De criterios duros de evidencia a crítica de fundamentos estables.,-1.0,1.0,1.0
+D19,Regulación discursiva vs Libertad expresiva amplia,Libertad expresiva amplia,Regulación discursiva/lingüística,Grado de normatividad del lenguaje para proteger a grupos.,-1.0,1.0,1.0
+D20,Plurinacionalismo/binacionalismo vs Mononacionalismo,Plurinacionalismo/binacionalismo,Mononacionalismo,Arreglo estatal de una o varias naciones en un territorio.,-1.0,1.0,1.0
+D21,Compromiso/partición territorial vs Maximalismo territorial,Compromiso/partición territorial,Maximalismo territorial,Aceptación de particiones/retiros vs expansión/retención territorial.,-1.0,1.0,1.0
+D22,Centralidad de la diáspora vs Centralidad estatal/aliyá,Centralidad de la diáspora,Centralidad estatal/aliyá,Lugar del Estado frente a la vida judía global.,-1.0,1.0,1.0
+D23,Ciudadanía cívica inclusiva vs Ciudadanía etno-religiosa,Ciudadanía cívica inclusiva,Ciudadanía etno-religiosa,Criterio dominante de pertenencia política y derechos.,-1.0,1.0,1.0
+D24,Principio de No Agresión (NAP) vs. Legitimidad de la Coerción Estatal,Legitimidad de la Coerción Estatal,Principio de No Agresión (NAP),"Grado en que la coacción física se considera ilegítima, excepto en defensa propia, contrastado con la aceptación de un monopolio estatal de la fuerza.",-1.0,1.0,1.0
+D25,Absolutismo de la Propiedad Privada vs. Propiedad Comunitaria/Regulada,Propiedad Comunitaria/Regulada,Absolutismo de la Propiedad Privada,Defensa de los derechos de propiedad privada como absolutos y fundacionales vs. su subordinación a fines colectivos o regulación estatal.,-1.0,1.0,1.0
+D26,Orden Espontáneo vs. Diseño Deliberado,Diseño Deliberado (Planificación Central),Orden Espontáneo (Mercado),Confianza en que el orden social emerge de interacciones voluntarias (mercado) vs. la necesidad de un diseño y planificación centralizados.,-1.0,1.0,1.0
+D27,Pro-ciencia vs Anti-ciencia,Anti-ciencia,Pro-ciencia,Actitud hacia el consenso científico y métodos verificables.,-1.0,1.0,1.0
+D28,Subsidiariedad/federalismo vs Centralismo unitario,Centralismo unitario,Subsidiariedad/federalismo,Grado de descentralización efectiva (competencias y fiscos locales) vs poder concentrado,-1.0,1.0,1.0
+D29,Pluralismo competitivo vs Corporativismo orgánico,Corporativismo orgánico,Pluralismo competitivo,Relación Estado–sociedad: cuerpos intermedios cooptados vs competencia abierta de intereses,-1.0,1.0,1.0
+D30,Sindicalismo/negociación colectiva fuerte vs Flexibilidad laboral desregulada,Flexibilidad laboral desregulada,Sindicalismo/negociación colectiva fuerte,Peso de sindicatos y convenios sectoriales vs individualización laboral,-1.0,1.0,1.0
+D31,Bienes comunes universales vs Privatización de servicios esenciales,Privatización de servicios esenciales,Bienes comunes universales,Trato de agua/salud/educación/energía como derechos universales vs bienes privados,-1.0,1.0,1.0
+D32,Autonomía personal vs Paternalismo estatal,Paternalismo estatal,Autonomía personal,Tutela estatal de conductas privadas (drogas apuestas estilos de vida),-1.0,1.0,1.0
+D33,Privacidad/antivigilancia vs Seguridad con supervisión masiva,Seguridad con supervisión masiva,Privacidad/antivigilancia,Equilibrio entre libertades digitales/criptografía y vigilancia/retención de datos,-1.0,1.0,1.0
+D34,Transparencia/anticorrupción vs Razón de Estado/opacidad,Razón de Estado/opacidad,Transparencia/anticorrupción,Acceso a info. protección a denunciantes y controles vs secreto y excepciones,-1.0,1.0,1.0
+D35,Migración abierta/movilidad vs Restricción migratoria fuerte,Restricción migratoria fuerte,Migración abierta/movilidad,Actitud hacia fronteras asilo y ciudadanía por residencia,-1.0,1.0,1.0
+D36,Transhumanismo/pro-mejora vs Bioconservadurismo,Bioconservadurismo,Transhumanismo/pro-mejora,Apertura a mejora humana (genética IA y prótesis) vs límites bioéticos conservadores,-1.0,1.0,1.0
+D37,Cultura libre/commons digitales vs Propiedad intelectual fuerte,Propiedad intelectual fuerte,Cultura libre/commons digitales,Prioridad a acceso/compartición/opensource vs exclusividad/DRM/plazos largos de IP,-1.0,1.0,1.0
+D38,Derechos animales/ecocentrismo vs Antropocentrismo estricto,Antropocentrismo estricto,Derechos animales/ecocentrismo,Extensión de la comunidad moral a animales/biomas vs centralidad humana,-1.0,1.0,1.0
+D39,Universalismo de bienestar vs Focalización/condicionalidad,Focalización/condicionalidad,Universalismo de bienestar,Diseño de políticas sociales: universales no condicionadas vs focalizadas con requisitos,-1.0,1.0,1.0
+D40,Libre comercio vs Proteccionismo,Proteccionismo,Libre comercio,Política comercial (aranceles y cuotas y TLC),-1.0,1.0,1.0
+D41,Justicia restaurativa vs Justicia retributiva,Justicia retributiva,Justicia restaurativa,Enfoque penal: reparación/desvío/despenalización selectiva vs castigo/aumento de penas,-1.0,1.0,1.0
+D42,Antiimperialismo/no intervención vs Intervencionismo liberal,Intervencionismo liberal,Antiimperialismo/no intervención,Actitud a intervenciones transfronterizas (“promoción de la democracia”/R2P),-1.0,1.0,1.0
+D43,Soberanía tecnológica/autarquía digital vs Integración tecnológica global,Integración tecnológica global,Soberanía tecnológica/autarquía digital,Preferencia por estándares locales/producción nacional/controles de exportación vs cadenas globales,-1.0,1.0,1.0
+D44,Democracia participativa/directa vs Representación delegativa,Representación delegativa,Democracia participativa/directa,Grado de participación directa (iniciativas/recalls/presupuestos participativos) vs delegación,-1.0,1.0,1.0
+D45,Sistema electoral proporcional vs Mayoritario,Mayoritarismo,Proporcionalidad,Diseño electoral: proporcionalidad/umbral bajo vs mayoritarismo/distritos uninominales,-1.0,1.0,1.0
+D46,Parlamentarismo/semiparlamentarismo vs Presidencialismo fuerte,Presidencialismo fuerte,Parlamentarismo/semiparlamentarismo,Preferencias institucionales sobre forma de gobierno,-1.0,1.0,1.0
+D47,Paridad/acción afirmativa de género vs Neutralidad ciega al género,Neutralidad ciega al género,Paridad/acción afirmativa de género,Cuotas/paridad/acciones afirmativas vs neutralidad procedimental,-1.0,1.0,1.0
+D48,Trabajo sexual reconocido vs Abolicionismo del trabajo sexual,Abolicionismo del trabajo sexual,Trabajo sexual reconocido,Marco normativo: descriminalización/“sex work is work” vs abolición (modelo nórdico),-1.0,1.0,1.0
+D49,Sex-positivity vs Anti-pornografía,Anti-pornografía,Sex-positivity,Actitud hacia pornografía/expresión sexual: libertad y reducción de daño vs prohibición/censura,-1.0,1.0,1.0
+D50,Economía del cuidado universal vs Responsabilidad privada del cuidado,Responsabilidad privada del cuidado,Economía del cuidado universal,Reconocimiento/financiamiento público del cuidado vs privatización doméstica/mercado,-1.0,1.0,1.0
+D51,Inclusión trans en categorías/espacios vs Exclusión trans (gender-critical),Exclusión trans,Inclusión trans,Reconocimiento jurídico y social de identidades trans en categorías y espacios protegidos,-1.0,1.0,1.0
+D52,Descolonización/autodeterminación vs Colonialismo de asentamiento,Colonialismo de asentamiento,Descolonización/autodeterminación,Actitud ante colonización. asentamiento. reparaciones y retorno de tierras,-1.0,1.0,1.0
